@@ -3,7 +3,7 @@
 > **Real-time brand design system playground** — Create, customize, and export complete brand identities with live preview, WCAG accessibility checking, and one-click export.
 
 [![Live Site](https://img.shields.io/badge/Live-Site-0c8ce9?style=for-the-badge&logo=vercel)](https://brand.akakika.com)
-[![License](https://img.shields.io/badge/License-Private-blue?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 ![React](https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?style=for-the-badge&logo=typescript)
 ![Vite](https://img.shields.io/badge/Vite-7-646cff?style=for-the-badge&logo=vite)
@@ -254,7 +254,7 @@ Configured with:
 
 ## 📄 License
 
-**Private — All rights reserved to KIKA.**
+MIT — open source. See [LICENSE](LICENSE).
 
 ---
 
