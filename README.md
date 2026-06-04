@@ -56,7 +56,7 @@ Try it now! Press **⌘K** for the command palette.
 
 ```bash
 # Clone the repository
-git clone https://github.com/dot-RealityTest/kika-brand-lab.git
+git clone https://github.com/aka-kika/kika-brand-lab.git
 cd kika-brand-lab
 
 # Install dependencies
@@ -263,7 +263,7 @@ MIT — open source. See [LICENSE](LICENSE).
 **KIKA** ([@Kika_Loren](https://twitter.com/Kika_Loren))
 
 - **Website:** https://akakika.com
-- **GitHub:** https://github.com/dot-RealityTest
+- **GitHub:** https://github.com/aka-kika
 - **Telegram:** @Kika_Loren
 
 ---
@@ -280,7 +280,7 @@ MIT — open source. See [LICENSE](LICENSE).
 ## 📞 Support
 
 For questions or issues:
-- **GitHub Issues:** https://github.com/dot-RealityTest/kika-brand-lab/issues
+- **GitHub Issues:** https://github.com/aka-kika/kika-brand-lab/issues
 - **Twitter:** [@Kika_Loren](https://twitter.com/Kika_Loren)
 - **Email:** via https://akakika.com
 
@@ -310,6 +310,6 @@ For questions or issues:
 
 - **Main Site:** https://akakika.com
 - **Brand Lab:** https://brand.akakika.com
-- **GitHub:** https://github.com/dot-RealityTest
+- **GitHub:** https://github.com/aka-kika
 - **Twitter:** [@Kika_Loren](https://twitter.com/Kika_Loren)
 - **Telegram:** @Kika_Loren

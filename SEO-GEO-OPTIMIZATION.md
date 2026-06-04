@@ -243,7 +243,7 @@ Test your structured data:
 ## 📞 Support
 
 For SEO/GEO questions or to report indexing issues:
-- GitHub: https://github.com/dot-RealityTest/kika-brand-lab
+- GitHub: https://github.com/aka-kika/kika-brand-lab
 - Twitter: @Kika_Loren
 - Email: via https://akakika.com
 
